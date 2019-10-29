@@ -14,7 +14,7 @@ episode,season,e_title,e_time,day_of_week,location,keywords
 13,S02E06,The Gang Gives Back,11:15 AM,On a Monday,"Philadelphia, PA",
 14,S02E07,The Gang Exploits a Miracle,11:00 AM,On a Tuesday,"Philadelphia, PA",
 15,S02E08,The Gang Runs for Office,10:15 AM,On a Wednesday,"Philadelphia, PA",
-16,S02E09,Charlie Goes America All Over Everybody's Ass,02:30 AM,On a Saturday,"Philadelphia, PA",
+16,S02E09,“Charlie Goes America All Over Everybody's Ass”,02:30 AM,On a Saturday,"Philadelphia, PA",
 17,S02E10,Dennis and Dee Get a New Dad,8:00 AM,On a Monday,"Philadelphia, PA",
 18,S03E01,The Gang Finds a Dumpster Baby,4:30 PM,On a Wednesday,"Philadelphia, PA", 
 19,S03E02,The Gang Gets Invincible,10:30 AM,On a Wednesday,"Philadelphia, PA", 
@@ -68,7 +68,7 @@ episode,season,e_title,e_time,day_of_week,location,keywords
 67,S06E10,“Charlie Kelly: King of the Rats”,10:00 AM,On a Tuesday,"Philadelphia, PA",What is your spaghetti policy here?
 68,S06E11,The Gang Gets Stranded in the Woods,3:30 PM,On a Saturday,Somewhere in Jersey, Atlantic City NJ
 69,S06E12,Dee Gives Birth,9:30 AM,On a Friday,"Philadelphia, PA",
-70,S06E13,A Very Sunny Christmas,,,"Philadelphia, PA",
+70,S06E13,A Very Sunny Christmas,Unknown Time,Unknown Time,"Philadelphia, PA",
 71,S07E01,“Frank's Pretty Woman”,11:30 AM,On a Monday,"Philadelphia, PA",
 72,S07E02,The Gang Goes to the Jersey Shore,10:30 AM,On a Friday,"Philadelphia, PA","“The gang goes down to the shore,  rumham”"
 73,S07E03,“Frank Reynolds' Little Beauties”,12:00 PM,On a Saturday,"Philadelphia, PA",
