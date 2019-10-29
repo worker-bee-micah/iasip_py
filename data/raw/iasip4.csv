@@ -34,7 +34,7 @@ episode,season,e_title,e_time,day_of_week,location,keywords
 33,S04E01,“Mac and Dennis: Manhunters”,1:30 PM,On a Wednesday,"Philadelphia, PA",This isn't the first time you have confused your life with the life of John Rambo
 34,S04E02,The Gang Solves the Gas Crisis,10:30 AM,On a Monday,"Philadelphia, PA",
 35,S04E03,“America's Next Top Paddy's Billboard Model Contest”,9:30 AM,On a Monday,"Philadelphia, PA",
-36,S04E04,“Mac's Banging the Waitress”,2:30 PM,On a Wednesday,"Philadelphia, PA",Project Badass
+36,S04E04,“Mac's Banging the Waitress”,2:30 PM,On a Wednesday,"Philadelphia, PA","Project Badass"
 37,S04E05,“Mac and Charlie Die: Part 1”,10:00 AM,On a Monday,"Philadelphia, PA",
 38,S04E06,“Mac and Charlie Die: Part 2”,10:00 AM,On a Monday,"Philadelphia, PA","Time and Location continued from Part 1, Zee glory hole, I'M NOT BURNING THE DUSTER!, Stop asking me to burn it, I'M NOT BURNING IT!"
 39,S04E07,“Who Pooped the Bed?”,1:30 PM,On a Wednesday,"Philadelphia, PA",Artemis assists with the investigation
@@ -85,9 +85,9 @@ episode,season,e_title,e_time,day_of_week,location,keywords
 84,S08E01,“Pop-Pop: The Final Solution”,10:45 AM,On a Tuesday,"Philadelphia, PA",
 85,S08E02,The Gang Recycles Their Trash,11:40 AM,On a Monday,"Philadelphia, PA",
 86,S08E03,The Maureen Ponderosa Wedding Massacre,10:00 PM,On Friday the 13th,"Somewhere Outside of Philadelphia, PA", 
-87,S08E04,Charlie and Dee Find Love,11:30 AM,On a Friday,"Philadelphia, PA",
-88,S08E05,The Gang Gets Analyzed,11:00 AM,On aThursday,"Philadelphia, PA",With a plastic bag for a helmet!
-89,S08E06,Charlie's Mom Has Cancer,11:20 AM,On a Saturday,"Philadelphia, PA",	
+87,S08E04,"Charlie and Dee Find Love",11:30 AM,On a Friday,"Philadelphia, PA",
+88,S08E05,"The Gang Gets Analyzed",11:00 AM,On aThursday,"Philadelphia, PA",With a plastic bag for a helmet!
+89,S08E06,"Charlie's Mom Has Cancer",11:20 AM,On a Saturday,"Philadelphia, PA",	
 90,S08E07,“Frank's Back in Business”,11:15 AM,On a Friday,"Philadelphia, PA",
 91,S08E08,Charlie Rules the World,10:30 AM,On aTuesday,"Philadelphia, PA",
 92,S08E09,The Gang Dines Out,8:17 PM,On a Saturday,"Philadelphia, PA",

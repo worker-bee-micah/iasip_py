@@ -1,4 +1,4 @@
-episode, e_title, e_time, day_of_week, location, quotes;
+episode,e_title,e_time,day_of_week,location,keywords
 S01E01, "The Gang Gets Racist", "12:45 AM", "On a Thursday", "Philadelphia, PA",
 S01E02, "Charlie Wants an Abortion","11:45 AM", "On a Tuesday","Philadelphia, PA", 
 S01E03, "Underage Drinking: A National Concern", "9:45 PM", "On a Friday", "Philadelphia, PA",
